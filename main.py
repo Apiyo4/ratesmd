@@ -2,8 +2,8 @@ from pymongo import MongoClient
 from urllib.parse import quote_plus
 # from fastapi.exceptions import HTTPException
 
-import pandas as pd
-import numpy as np
+# import pandas as pd
+# import numpy as np
 
          
 def fetch_data(page=None, limit=None):
